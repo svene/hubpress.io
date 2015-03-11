@@ -1,4 +1,5 @@
 = Title
 :published_at: 2015-03-11
+:hp-tags: java, gui, Open Source,
 
 Hi there. This is my first attempt to write a *blog* post in `asciidoc`. This is _quite_ cool.
