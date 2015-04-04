@@ -1,4 +1,0 @@
-= Title
-:published_at: 2015-01-31
-
-Hi there. This is my first attempt to write a *blog* post in `asciidoc`. This is _quite_ cool.
